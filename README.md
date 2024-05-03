@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Azeemuddin Mohammad</h1>
-<h3 align="center">A passionate Data analyst intern from India🇮🇳</h3>
+<h3 align="center">A passionate Data analyst intern from India</h3>
 🔭 I’m currently working on Bank Analytics<br>👯 I’m looking to collaborate on Data visualization projects<br>🤝 I’m looking for help with data visualization and insights<br>🌱 I’m currently learning Python and R programming<br>💬 Ask me about Data related Queries<br>⚡ Fun fact Snakes can predict earthquakes
 
 
